@@ -1,13 +1,13 @@
-images/train_word_1.png	Genaxis Theatre
-images/train_word_2.png	[06]
-images/train_word_3.png	62-03
-images/train_word_4.png	Carpark
-images/train_word_5.png	EXIT
-images/train_word_6.png	I2R
-images/train_word_7.png	fusionopolis
-images/train_word_8.png	fusionopolis
-images/train_word_9.png	Reserve
-images/train_word_10.png	CAUTION
+images/train_word_1.png	SO...
+images/train_word_2.png	...HANG
+images/train_word_3.png	IN
+images/train_word_4.png	THERE.
+images/train_word_5.png	...WHEN
+images/train_word_6.png	I
+images/train_word_7.png	HEARD
+images/train_word_8.png	A
+images/train_word_9.png	GENTLE
+images/train_word_10.png	VOICE.
 images/train_word_11.png	citi
 images/train_word_12.png	smrt
 images/train_word_13.png	WHY
