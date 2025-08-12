@@ -8,16 +8,16 @@ images/train_word_7.png	HEARD
 images/train_word_8.png	A
 images/train_word_9.png	GENTLE
 images/train_word_10.png	VOICE.
-images/train_word_11.png	citi
-images/train_word_12.png	smrt
-images/train_word_13.png	WHY
-images/train_word_14.png	PAY
-images/train_word_15.png	FOR
-images/train_word_16.png	NOTHING?
-images/train_word_17.png	EXIT
-images/train_word_18.png	STAGE
-images/train_word_19.png	HarbourFront
-images/train_word_20.png	CC22
+images/train_word_11.png	WAS
+images/train_word_12.png	PASSING
+images/train_word_13.png	OUT...
+images/train_word_14.png	THAT...
+images/train_word_15.png	...WAS
+images/train_word_16.png	HOW
+images/train_word_17.png	MET
+images/train_word_18.png	MY
+images/train_word_19.png	WIFE.
+images/train_word_20.png	Chapter
 images/train_word_21.png	bua
 images/train_word_22.png	Shops
 images/train_word_23.png	Gen is
