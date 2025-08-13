@@ -18,16 +18,16 @@ images/train_word_17.png	MET
 images/train_word_18.png	MY
 images/train_word_19.png	WIFE.
 images/train_word_20.png	Chapter
-images/train_word_21.png	bua
-images/train_word_22.png	Shops
-images/train_word_23.png	Gen is
-images/train_word_24.png	Theatre
-images/train_word_25.png	Place
-images/train_word_26.png	Nursing
-images/train_word_27.png	Room
-images/train_word_28.png	Fraser
-images/train_word_29.png	LIFESTYLE
-images/train_word_30.png	CHOICES
+images/train_word_21.png	...ABSORBS
+images/train_word_22.png	FATE.
+images/train_word_23.png	PURE
+images/train_word_24.png	WHITE
+images/train_word_25.png	SNOW...
+images/train_word_26.png	...GOING
+images/train_word_27.png	TO
+images/train_word_28.png	DIE?
+images/train_word_29.png	I'M
+images/train_word_30.png	IN
 images/train_word_31.png	THAT
 images/train_word_32.png	FOR
 images/train_word_33.png	COME
