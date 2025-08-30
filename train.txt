@@ -188,16 +188,16 @@ images/train_word_187.png	CHANGE
 images/train_word_188.png	ANYTHING.
 images/train_word_189.png	...EVEN
 images/train_word_190.png	BEING
-images/train_word_191.png	UNIVERSITY
-images/train_word_192.png	TECHNOLOGICAL
-images/train_word_193.png	Lift
-images/train_word_194.png	MRT
-images/train_word_195.png	lower
-images/train_word_196.png	calorie
-images/train_word_197.png	meals
-images/train_word_198.png	serve
-images/train_word_199.png	whole-grain
-images/train_word_200.png	optons
+images/train_word_191.png	TOMORROW.
+images/train_word_192.png	PARASITE
+images/train_word_193.png	DIE
+images/train_word_194.png	TRASH
+images/train_word_195.png	TURD GIRL
+images/train_word_196.png	STOPPED
+images/train_word_197.png	MIDDLE
+images/train_word_198.png	PERFOR-
+images/train_word_199.png	MANCE.
+images/train_word_200.png	THERE!
 images/train_word_201.png	Ave
 images/train_word_202.png	Ayer
 images/train_word_203.png	THE
